@@ -1,0 +1,413 @@
+@model appAPP.Models.PlayersViewModel
+
+<style type="text/css">
+
+    #ui-datepicker-div {
+        z-index: 9999999;
+    }
+
+    select {
+	width: auto; 
+	border-radius: 4px;
+	padding: 2px;
+	box-shadow: inset 0 0 5px rgba(000,000,000, 0.5);
+    }
+
+    
+ .modalBackgroundit
+        {
+	        background-color: gray;
+	        filter:alpha(opacity=40);
+	         -moz-opacity: 0.40;   
+	        opacity: 0.40;
+            z-index: 900;
+        }
+
+a:hover {
+    text-decoration: none;
+}
+
+
+
+
+input[type=range] {
+  -webkit-appearance: none;
+  margin: 0px 0px 7px 0px;
+  width: 100%;
+  padding: 0px;
+}
+input[type=range]:focus {
+  outline: none;
+}
+input[type=range]::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 3.0px;
+  cursor: pointer;
+  box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+  background: navy;
+  border-radius: 25px;
+  border: 0px solid #000101;
+}
+input[type=range]::-webkit-slider-thumb {
+  box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+  border: 5px solid lightblue;
+  height: 25px;
+  width: 25px;
+  border-radius: 50px;
+  background: navy;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -9.6px;
+}
+input[type=range]:focus::-webkit-slider-runnable-track {
+  background: navy;
+}
+input[type=range]::-moz-range-track {
+  width: 100%;
+  height: 3.0px;
+  cursor: pointer;
+  box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+  background: navy;
+  border-radius: 25px;
+  border: 0px solid #000101;
+}
+input[type=range]::-moz-range-thumb {
+  box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+  border: 5px solid lightblue;
+  height: 25px;
+  width: 25px;
+  border-radius: 50px;
+  background: navy;
+  cursor: pointer;
+}
+input[type=range]::-ms-track {
+  width: 100%;
+  height: 3.0px;
+  cursor: pointer;
+  background: transparent;
+  border-color: transparent;
+  border-width: 18px 0;
+  color: transparent;
+  padding: 0px;
+}
+input[type=range]::-ms-fill-lower {
+  background: navy;
+  border: 0px solid red;
+  border-radius: 50px;
+  box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+  padding: 0px;
+}
+input[type=range]::-ms-fill-upper {
+  background: navy;
+  border: 0px solid green;
+  border-radius: 50px;
+  box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+  padding: 0px;
+}
+input[type=range]::-ms-thumb {
+  box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+  border: 5px solid lightblue;
+  height: 25px;
+  width: 25px;
+  border-radius: 50px;
+  background: navy;
+  cursor: pointer;
+}
+input[type=range]:focus::-ms-fill-lower {
+  background: navy;
+  padding: 0px;
+}
+input[type=range]:focus::-ms-fill-upper {
+  background: navy;
+  padding: 0px;
+}
+input[type=range]::-ms-tooltip {
+  display: none;
+}
+
+/*
+  End of input Slider css
+*/
+
+
+/*
+  Start of input checkbox css
+*/
+.regular-checkbox {
+    display: none;
+}
+.regular-checkbox + label {
+    -webkit-appearance: none;
+    background-color: #e1e1e1;
+    border: 4px solid #e1e1e1;
+    border-radius: 50px;
+    width: 100%;
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+}
+.regular-checkbox:checked + label {
+    background: blue;
+    border: 4px solid #e1e1e1;
+}
+/*
+  END of input checkbox css
+*/
+
+
+/*
+  Start of input radio css
+*/
+.regular-radio {
+    display: none;
+}
+.regular-radio + label {
+    -webkit-appearance: none;
+    background-color: #e1e1e1;
+    border: 4px solid #e1e1e1;
+    border-radius: 50px;
+    width: 100%;
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+}
+.regular-radio:checked + label {
+    background: blue;
+    border: 4px solid #e1e1e1;
+}
+
+/*
+  End of input radio css
+*/
+
+</style>
+
+  <script src="../js/PlayersShowDetail.js?v=@(Guid.NewGuid())" type="text/javascript"></script>
+
+  <script language="javascript" type="text/javascript">
+
+      var PlayersDetailCalGif = '@Url.Content("~/images/cal.gif")';
+
+      var PlayersDetailGetURL = '@Url.Action("GetPlayersDetail","Players")';
+      var PlayersDetailGetAddURL = '@Url.Action("GetPlayersDetailAdd","Players")';
+      var PlayersDetailAddURL = '@Url.Action("AddPlayers", "Players")';
+      var PlayersDetailUpdateURL = '@Url.Action("UpdatePlayers", "Players")';
+
+      var PlayersDetailCombo1URL = '@Url.Action("Displaycombo1", "combo1")';     
+
+      function PlayersshowValue(newValue) {
+          document.getElementById("Playersrange").innerHTML = newValue;
+      }
+
+  </script>
+
+    <div id="PlayersDetailtopdiv" style="background-color: white;border:1px solid silver;">
+
+       <table border="0" style="height:100%;width:100%;border: 0px solid #C0C0C0;">
+            <tr>
+                <td valign="top">
+
+        <input name="PlayersShowit" type="hidden" id="PlayersShowit" value="" />
+
+        <div align="center" style="color: #696969; width: 50%; font-weight: bold; font-family: Arial; font-size: 12px; padding: 0 0 0 35%; display:block;">
+            Oyuncu duzenleme paneli
+        </div>
+
+        <div id="PlayersDetailFormData" style="height: auto; background-color: #F7F9F9; font-family: Arial; width: 70%; font-size: 4px; padding: 0; margin: 0 auto;">
+
+            <form id="PlayersDetailValForm" action="./" method="post">
+
+                <table style="background-color: #F7F9F9; width: 100%; border: solid 1px #ebeff2">
+                    <tr>
+                        <td colspan="1" style="padding: 4px 0px 4px 0px;width: 50%;">
+                            <label style="font-size: 11px;" for="Battles_in">Battles</label>
+                            <div id="PlayersDetailBattlesOK" style="display:none;">
+                                <img style="display:inline-block;padding-left:3px;padding-bottom:4px;" src="@(Url.Content("~/images/GreenTick12x12.png"))" alt="OK" />
+                            </div>
+                            <input placeholder="Battles" autocomplete="off" style="font-size: 10px; height: 20px; padding: 2px 2px;" class="form-control input-sm" name="Battles_in" type="text" value="" onkeyup="javascript: PlayersDetailFieldValidate();" onchange="javascript: PlayersDetailFieldValidate();" />
+                            <input style="font-size: 10px; display:none; width: 80px" type="text" name="Battles_inCopy" value="" />
+                            <div id="DivErrPlayersDetailBattles_in" style="display: block;font-family: Arial; font-size: 10px;color: red;">
+                              &nbsp;
+                            </div>
+                        </td>
+                        <td colspan="1" style="padding: 4px 0px 4px 8px;width: 20%;">
+                            <label style="font-size: 11px;" for="Nickname_in">Nickname</label>
+                            <div id="PlayersDetailNicknameOK" style="display:none;">
+                                <img style="display:inline-block;padding-left:3px;padding-bottom:4px;" src="@(Url.Content("~/images/GreenTick12x12.png"))" alt="OK" />
+                            </div>
+                            <input placeholder="Nickname" autocomplete="off" style="font-size: 10px;height: 20px; padding: 2px 2px;display: block;" class="form-control input-sm" name="Nickname_in" type="text" value="" onclick="javascript: PlayersDetailCombo1('Nickname_in', 'false');" onkeyup="javascript: PlayersDetailFieldValidate();"  onchange="javascript: PlayersDetailFieldValidate();" />
+                            <img style="float:right;position:relative;top:-17px;display:none;margin-bottom:-15px;" name="NicknamePic" src="@(Url.Content("~/images/AutoCombo.jpg"))" alt="" onclick="javascript: PlayersDetailCombo1('Nickname_in', 'false');" />
+                            <input style="font-size: 10px; display:none; width: 80px" type="text" name="Nickname_inCopy" value="" />
+                            <div id="DivErrPlayersDetailNickname_in" style="display: block;font-family: Arial; font-size: 10px;color: red;">
+                             &nbsp;
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <!-- WN KALDIR -->
+                        <td style="padding: 4px 0px 4px 0px; width: 40%;">
+                            <label style="font-size: 11px; display:none;" for="Wn_State_in">Wn_State</label>
+                            <div id="PlayersDetailWn_StateOK" style="display:none;">
+                                <img style="display:none;padding-left:3px;padding-bottom:4px;" src="@(Url.Content("~/images/GreenTick12x12.png"))" alt="OK" />
+                            </div>
+                            <input autocomplete="off" style="display:none;  font-size: 10px; height: 20px; padding: 2px 2px;" class="form-control input-sm" name="Wn_State_in" type="text" value="" onkeyup="javascript: PlayersDetailFieldValidate();" onchange="javascript: PlayersDetailFieldValidate();" />
+                            <input style="font-size: 10px; display:none; width: 80px" type="text" name="Wn_State_inCopy" value="" />
+                            <div id="DivErrPlayersDetailWn_State_in" style="display: none;font-family: Arial; font-size: 10px;color: red;">
+                                &nbsp;
+                            </div>
+                        </td>
+
+                        <td style="padding: 4px 0px 4px 8px;width: 50%;">
+                            <label style="font-size: 11px;" for="Damage_in">Damage</label>
+                            <div id="PlayersDetailDamageOK" style="display:none;">
+                                <img style="display:inline-block;padding-left:3px;padding-bottom:4px;" src="@(Url.Content("~/images/GreenTick12x12.png"))" alt="OK" />
+                            </div>
+                            <input autocomplete="off" style="font-size: 10px; height: 20px; padding: 2px 2px;" class="form-control input-sm" name="Damage_in" type="text" value="" onkeyup="javascript: PlayersDetailFieldValidate();" onchange="javascript: PlayersDetailFieldValidate();" />
+                            <input style="font-size: 10px; display:none; width: 80px" type="text" name="Damage_inCopy" value="" />
+                            <div id="DivErrPlayersDetailDamage_in" style="display: block;font-family: Arial; font-size: 10px;color: red;">
+                                &nbsp;
+                            </div>
+                        </td>
+                        <td style="padding: 4px 0px 4px 0;width: 50%;"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" style="padding: 4px 0px 4px 0px;width: 50%;display:none;">
+                           
+                            <input type="checkbox" id="Playerscheckbox-1" name="Private_Cover_in" class="regular-checkbox" value="" disabled="disabled" />
+                            <label for="Playerscheckbox-1"><span style="position:relative;bottom:1px;font-weight:normal;left:30px;font-size:16px;">&nbsp;Private_Cover</span></label><br />
+                            <input style="font-size: 10px; display:none;" type="checkbox" name="Private_Cover_inCopy" value="" />
+
+                        </td>
+                        <td colspan="1" style="padding: 4px 0px 4px 8px;width: 50%;display:none;">
+
+                            <!--Combo Normal list way-->
+                            <label style="font-size: 11px; margin: 0px 0px 2px 0px;" for="WorkerType_in">Worker Type</label>
+
+                            <input autocomplete="off" style="font-size: 11px; height: 20px; padding: 2px 2px;" class="form-control input-sm" name="WorkerType_in" type="text" value="" />
+                            <input style="font-size: 10px; display:none; width: 80px" type="text" name="WorkerType_inCopy" value="" />
+
+                            <!-- EDIT mode list (gets existing)-->
+                            <select name="PlayersnormcomboEDITCombo"
+                                    style="border:1px solid #AAA; font-size: 11px; width:150px; display: none; margin:0px 0px 0px 0px"></select>
+
+                            <!-- ADD mode list(whole list Note:- change Worker_Type_ID to Worker_Type for TEXT)-->
+                            <select name="PlayersnormcomboADDCombo" style="width:150px; border:1px solid #AAA; font-size: 11px; display:none;">
+                                <option value=""></option>
+                            </select>
+
+                            <!--END Combo Normal list way-->
+
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" style="padding: 4px 0px 4px 0px;width: 50%;display:none;">
+                           <div style="padding:0px;display:block;">
+                                <input type="range" min="0" max="100" value="0" step="1" onchange="PlayersshowValue(this.value)" />
+                            </div>
+                        </td>
+                        <td colspan="1" style="padding: 4px 0px 4px 8px;width: 50%;display:none;">
+                             
+                            <input type="radio" id="Playersradio1" name="radio-2-set" class="regular-radio" disabled="disabled" />
+                            <label for="Playersradio1"><span style="position:relative;bottom:1px;font-weight:normal;left:30px;font-size:16px;">&nbsp;Male</span></label><br>
+                            <input type="radio" id="Playersradio2" name="radio-2-set" class="regular-radio" disabled="disabled" />
+                            <label for="Playersradio2"><span style="position:relative;bottom:1px;font-weight:normal;left:30px;font-size:16px;">&nbsp;Female</span></label><br />
+                            <input type="radio" id="Playersradio3" name="radio-2-set" class="regular-radio" disabled="disabled" />
+                            <label for="Playersradio3"><span style="position:relative;bottom:1px;font-weight:normal;left:30px;font-size:16px;">&nbsp;Other</span></label><br />
+                            <input style="font-size: 10px; display:none;" type="radio" id="PlayersRadio1_inCopy" value="" />
+                            <input style="font-size: 10px; display:none;" type="radio" id="PlayersRadio2_inCopy" value="" />
+                            <input style="font-size: 10px; display:none;" type="radio" id="PlayersRadio3_inCopy" value="" />
+
+                        </td>
+                    </tr>
+                </table>
+
+            </form> 
+            <div id="Playersrange" style="font-size:10px;height:24px; display:none;">0</div>
+
+            <div id="DivErrorPlayersDetail" style="display: none;font-family: Arial; font-size: 10px;color: red;">
+            </div>
+
+        </div>
+      </td>
+      </tr>
+       <tr>
+          <td valign="bottom">
+        <table style="background-color: #F7F9F9; margin-top: 7px; width: 100%;margin-bottom:5px;margin-left: 1px;">
+            <tr>
+                <td>
+                    <input style="font-size:10px; float:left; display:none;" id="btnPlayersDetailCancelEDIT" class="btn btn-danger btn-xs" type="button" value="Iptal" onclick="PlayersDetailCancelForm();" />
+                    <input style="font-size:10px; float:left; display:none;" id="btnPlayersDetailCancelADD" class="btn btn-danger btn-xs" type="button" value="Iptal" onclick="PlayersDetailClosePopup();" />
+                    <input style="font-size:10px; float:left; display:none;" id="btnPlayersDetailSave" class="btn btn-success btn-xs" type="button" onclick="PlayersDetailSaveScript(); return false;" value="Kaydet" />
+
+                    <input style="font-size:10px; float:left; display:none;" id="btnPlayersDetailCancel" class="btn btn-danger btn-xs" type="button" value="Iptal" onclick="PlayersDetailClosePopup();" />
+                    <input style="font-size:10px; float:left; display:none;" id="btnPlayersDetailEdit" class="btn btn-primary btn-xs" type="button" value="Duzenle" onclick="PlayersDetailEditForm('Date');" />
+
+                </td>
+            </tr>
+        </table>
+
+                </td>
+            </tr>
+        </table>
+
+        <div style="font-family: Arial; font-size: 10px; height: 1px; border-bottom: 0px solid #d4d4d1; ">
+            &nbsp;
+        </div>
+
+
+        <div id="PlayersDetailCombo1Div" style="display: block;position:absolute;top:0px;left:0px;z-index: 400;">
+        </div>
+        <div id="PlayersDetailCombo2Div" style="display: block;position:absolute;top:0px;left:0px;z-index: 400;">
+        </div>
+
+        <form method="post" action="./" id="PlayersDetailForm">
+
+            @Html.AntiForgeryToken()
+
+            <div style="font-size: 1px;color: white;height: 1px;" class="device-xs visible-xs">.</div>
+
+            <input name="Player_ID" type="hidden" value="" />
+
+            <input name="Nickname" type="hidden" value="" />
+            <input name="Nickname_Str" type="hidden" value="" />
+
+            <input name="Battles" type="hidden" value="" />
+            <input name="Battles_Str" type="hidden" value="" />
+
+            <input name="Wn_State" type="hidden" value="" />
+            <input name="Wn_State_Str" type="hidden" value="" />
+
+            <input name="Damage" type="hidden" value="" />
+            <input name="Damage_Str" type="hidden" value="" />
+
+            <input name="normcombopkid" type="hidden" value="" />
+            <input name="normcombocol1" type="hidden" value="" />
+   
+            <input name="Private_Cover" type="hidden" value="" />
+            <input name="Sex" type="hidden" value="" />
+          
+        </form>
+
+       
+
+        <input style="font-size: 10px; display:none;" name="comboCheckit" type="text" value="" />
+
+        <div id="PlayersDetailSpinPopup" data-bind="visible: isSpinning"
+           style="position: absolute;top: 40%;margin: 5px auto 0;left: 45%;background-color:white;border-radius: 5px;display:none;border:1px solid silver">
+          <div style="height:17px;">
+              &nbsp;
+          </div>
+          &nbsp;<i class="fa fa-spinner fa-spin"></i>
+          <span style="font-size: 14px;color:navy;">&nbsp;&nbsp;Ýþleniyor...&nbsp;&nbsp;&nbsp;</span>
+          <div style="height:20px;">
+              &nbsp;
+          </div>
+        </div>
+
+
+        <div class="device-sm visible-sm"></div>
+        <div class="device-md visible-md"></div>
+        <div class="device-lg visible-lg"></div>
+
+    </div>

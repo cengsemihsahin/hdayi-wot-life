@@ -1,0 +1,475 @@
+@model appAPP.Models.PlayersViewModel
+@{
+    Layout = null;
+}
+
+<style>
+    div.PlayersShowtab {
+        overflow: hidden;
+        border-top: 1px solid #ccc;
+        border-bottom: 0px solid #ccc;
+        border-left: 1px solid #ccc;
+        border-right: 1px solid #ccc;
+        background-color: white;
+        border-top-left-radius:5px;
+        border-top-right-radius:5px;
+    }
+        div.PlayersShowtab button {
+            background-color: inherit;
+            float: left;
+            border-top: 1px solid #ccc;
+            border-bottom: 1px solid #ccc;
+            border-left: 1px solid #ccc;
+            border-right: 1px solid #ccc;
+            border-top-left-radius:4px;
+            border-top-right-radius:4px;
+            outline: none;
+            cursor: pointer;
+            padding: 5px 8px;
+            transition: 0.3s;
+            font-size: 12px;
+            margin-left: 1px;
+            margin-top: 3px;
+            color: navy;
+            font-family:Arial;
+        }
+
+            div.PlayersShowtab button:hover {
+                background-color: #ddd;
+            }
+
+            div.PlayersShowtab button.active {
+                background-color: #ccc;
+                color: black;
+                font-weight:bold;
+                font-family:Arial;
+                font-size: 13px;
+            }
+
+
+    div.PlayersShowtabxs {
+        overflow: auto;
+        background-color: white;
+        border-top-left-radius:5px;
+        border-top-right-radius:5px;
+        white-space: nowrap;
+        border-top: 0px solid #ccc;
+        border-bottom: 0px solid #ccc;
+        border-left: 1px solid #ccc;
+        border-right: 1px solid #ccc;
+    }
+
+        div.PlayersShowtabxs button {
+            background-color: inherit;
+            border-top: 1px solid #ccc;
+            border-bottom: 1px solid #ccc;
+            border-left: 1px solid #ccc;
+            border-right: 1px solid #ccc;
+            border-top-left-radius:4px;
+            border-top-right-radius:4px;
+            outline: none;
+            cursor: pointer;
+            padding: 5px 8px;
+            transition: 0.3s;
+            font-size: 11px;
+            margin-left: 1px;
+            margin-top: 1px;
+            color: navy;
+            font-weight:normal;
+            font-family:Arial;
+        }
+
+            div.PlayersShowtabxs button:hover {
+                background-color: #ddd;
+            }
+
+            div.PlayersShowtabxs button.active {
+                background-color: #ccc;
+                color: black;
+                font-weight:bold;
+                font-family:Arial;
+                font-size: 12px;
+            }
+
+
+    .PlayersShowtabcontent {
+        display: none;
+        padding: 6px 12px;
+        border: 1px solid #ccc;
+        border-top: none;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+
+
+    .PlayersShowclosebtn {
+        font-size: 17px;
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+        padding-right: 7px;
+        padding-top: 3px;
+    }
+</style>
+
+
+<div id="PlayersShowShowtabs" style="padding-top: 0px;background-color:white;">
+
+    <partial name="PlayersDetail" model="Model" />
+
+    <div class="PlayersShowtab hidden-xs">
+
+        <button class="PlayersShowtablinks" onclick="PlayersShowAddChild('PlayersShowStart', 'Child1')" id="PlayersShowStartChild1">Add Child</button>
+
+    </div>
+    <div class="PlayersShowtabxs visible-xs">
+
+        <button class="PlayersShowtablinks" onclick="PlayersShowAddChild('PlayersShowStart', 'Child1')" id="PlayersShowStartChild1xs">Add Child</button>
+
+    </div>
+
+    <div id="PlayersShow~childprog1~" class="PlayersShowtabcontent">
+        <div id="PlayersShow~childprog1~Div">
+
+        </div>
+    </div>
+    <div id="PlayersShow~childprog2~" class="PlayersShowtabcontent">
+         <div id="PlayersShow~childprog2~Div">
+
+        </div>
+    </div>
+    <div id="PlayersShow~childprog3~" class="PlayersShowtabcontent">
+        <div id="PlayersShow~childprog3~Div">
+
+        </div>
+    </div>
+    <div id="PlayersShow~childprog4~" class="PlayersShowtabcontent">
+         <div id="PlayersShow~childprog4~Div">
+
+        </div>
+    </div>
+    <div id="PlayersShow~childprog5~" class="PlayersShowtabcontent">
+         <div id="PlayersShow~childprog5~Div">
+
+        </div>
+    </div>
+   <div id="PlayersShow~childprog6~" class="PlayersShowtabcontent">
+        <div id="PlayersShow~childprog6~Div">
+
+        </div>
+    </div>
+    <div id="PlayersShow~childprog7~" class="PlayersShowtabcontent">
+         <div id="PlayersShow~childprog7~Div">
+
+        </div>
+    </div>
+    <div id="PlayersShow~childprog8~" class="PlayersShowtabcontent">
+         <div id="PlayersShow~childprog8~Div">
+
+        </div>
+    </div>
+
+</div>
+
+<div id="PlayersShowshowSpinPopup" data-bind="visible: isSpinning" style="display:none; position: absolute; top: 40px; left: 220px;">
+    <i class="fa fa-spinner fa-spin"></i>
+    <span class="updateProgressMessage">Processing ...</span>
+</div>
+
+
+<script language="javascript" type="text/javascript">
+
+   var PlayersurlChildDel = '/Home/ReloadDel';  
+   function PlayersShowDelChild(Prog, ChildNumber, ChildTable) {
+     var txt;
+     var r = confirm("Continue to Delete Left Tab?");
+     if (r == true) {
+         PlayersShowDelChildStart(Prog, ChildNumber, ChildTable);
+     } else {
+
+      } 
+
+   }
+    function PlayersShowDelChildStart(Prog, ChildNumber, ChildTable) {
+        $("#PlayersFormtopdiv [name=CurrentProgName]").val(Prog);
+        $("#PlayersFormtopdiv [name=CurrentChildNo]").val(ChildNumber);
+        var ParentProgName = "Players";
+        $("#PlayersFormtopdiv [name=ParenterProgName]").val(ParentProgName);
+        $("#PlayersFormtopdiv [name=ChildtableName]").val(ChildTable);
+
+        PlayersChildDel = $("#PlayersForm").serialize();  
+
+        setTimeout(PlayersChildServerDEL, 30);
+    }
+
+
+    function PlayersChildServerDEL() {
+
+        var putTitle = "";
+        putTitle = "Deleting Child";
+
+        $("#PlayersModalk").css("display", "block");
+        $(".modal-contentk").css("width", "280px");
+        $("#PlayersmodalkTitle").text(putTitle);
+
+        var Expandid = "ModalPlayersOverlayK";
+
+        var ChildNumber = "1";
+        var Existin = "Exist";
+        var Newin = "New";
+
+        var dialogHeight = "100";
+        var Expandheightpx = dialogHeight + "px";
+        document.getElementById(Expandid).style.height = Expandheightpx;
+
+        $("#ModalPlayersOverlayK").empty();
+        var strTextDel = "<div style='font-size:12px;color:black;padding-bottom: 9px;padding-top:9px;'>Choose to Delete Code and/or Table?</div>";
+        var strSubmit = '<input style="font-size:10px;display:inline-block;font-weight:bold;margin-right:9px;" class="btn-primary btn-sm" type="button" value="Delete Code ONLY" onclick="PlayersChildServerDELStart(' + '\'' + ChildNumber + '\'' + ',' + '\'' + Newin + '\'' + ');PlayersCloseK();" />';
+        var strCancel = '<input style="font-size:10px;display:inline-block;font-weight:bold;" class="btn-success btn-sm" type="button" value="Delete Code & Table" onclick="PlayersChildServerDELStart(' + '\'' + ChildNumber + '\'' + ',' + '\'' + Existin + '\'' + ');PlayersCloseK();" />';
+
+        $("#ModalPlayersOverlayK").html(strTextDel + strSubmit + strCancel);
+
+    }
+
+   function PlayersChildServerDELStart(ChildNumber, typein) {
+
+        var PlayersChildDelURL77 = '@Url.Action("GenerateCodeDELChildPOnly", "ENTITYTABLE")';
+
+
+        if (typein == "Exist") {
+          PlayersChildDelURL77 = '@Url.Action("GenerateCodeDELChild", "ENTITYTABLE")';
+        }
+
+        
+        $.post(PlayersChildDelURL77, PlayersChildDel, function (data, textStatus) {
+            PlayersChildGenCodeRecordDEL(data);
+        }, "json");
+
+    }
+    function PlayersChildGenCodeRecordDEL(jsonScript) {
+        var returnMessage = "";
+
+        for (i = 0; i < jsonScript.ReturnMessage.length; i++) {
+            returnMessage = returnMessage + jsonScript.ReturnMessage[i] + "\n";
+        }
+
+        if (jsonScript.ReturnStatus == true) {
+            alert("Generated Code successfully Deleted.");
+            PlayersChildDoneitDEL();
+        }
+        else {
+            alert("" + returnMessage);
+        }
+    }
+    function PlayersChildDoneitDEL() {
+        window.location.href = PlayersurlChildDel; 
+    }
+
+
+
+  
+  function PlayersShowAddChild(PKID, ChildNumber) {
+   
+      var putTitle = "";
+      putTitle = "Adding New Child";
+
+      $("#PlayersModalk").css("display", "block");
+      $(".modal-contentk").css("width", "270px");
+      $("#PlayersmodalkTitle").text(putTitle);
+
+      var Expandid = "ModalPlayersOverlayK";
+
+      var Existin = "Exist";
+      var Newin = "New";
+
+      var dialogHeight = "100";
+      var Expandheightpx = dialogHeight + "px";
+      document.getElementById(Expandid).style.height = Expandheightpx;
+
+      $("#ModalPlayersOverlayK").empty();
+      var strTextDel = "<div style='font-size:12px;color:black;padding-bottom: 9px;padding-top:9px;'>Choose to Create or use Existing Table?</div>";
+      var strSubmit = '<input style="font-size:11px;display:inline-block;font-weight:bold;margin-right:9px;" class="btn-primary btn-sm" type="button" value="Use Existing Table" onclick="PlayersShowAddChildStart(' + '\'' + ChildNumber + '\'' + ',' + '\'' + Existin + '\'' + ');" />';
+      var strCancel = '<input style="font-size:11px;display:inline-block;font-weight:bold;" class="btn-success btn-sm" type="button" value="Create New Table" onclick="PlayersShowAddChildStart(' + '\'' + ChildNumber + '\'' + ',' + '\'' + Newin + '\'' + ');" />';
+
+      $("#ModalPlayersOverlayK").html(strTextDel + strSubmit + strCancel);
+
+  }
+  
+  function PlayersShowAddChildStart(ChildNumber, typein) {
+
+        var PrimPKID = $("#PlayersFormtopdiv [name=Name_ID]").val();
+
+
+        $("#ChildCounterDiv [name=CHILDNUMBER]").val(ChildNumber);
+
+        var ParentProgName = "Players";
+        $("#ParentProgNameDiv [name=PARENTPROG]").val(ParentProgName);
+
+        var ParentProgPKID = "Player_ID";
+        $("#ParentProgPKIDDiv [name=PARENTPKID]").val(ParentProgPKID);
+
+        var putTitle = "";
+        putTitle = "Add Child";
+
+       
+        var strAction = "DisplayChildAdd";
+        var strController = "ChildAdd";
+    
+        if (typein == "Exist") {
+            strAction = "DisplayChildAddk";
+            strController = "ChildAddk";
+        }
+
+       
+        var pagesrc = '/Names17/Names1Detail7'; 
+        pagesrc = pagesrc.replace("Names1Detail7", strAction);
+        pagesrc = pagesrc.replace("Names17", strController);
+
+   
+        var dialogWidth = 0;
+        var dialogHeight = 0;
+        dialogWidth = document.getElementById("PlayersForm").offsetWidth;
+        dialogHeight = document.getElementById("PlayersForm").offsetHeight;
+        //var dialogHeight = 0;
+
+        var deviceHeight = (typeof window.outerHeight != 'undefined') ? Math.max(window.outerHeight, $(window).height()) : $(window).height();
+        //-------------------------------------------------------------------------------------------------------------------------------
+        //-------------------------------------------------------------------------------------------------------------------------------
+        var HeightChk = "true";
+        if (isBreakpointGet('xs')) {   //  Width < 768px
+            if (Number(deviceHeight) < 400) {
+                alert("Please increase Window Height, or use Portrait Mode, to proceed.");
+                LayoutHideProgressBar();  //found in _Layout.cshtml
+                HeightChk = "false";
+            }
+        }
+        else  // ekran > 768px genislik
+        {
+            if (Number(deviceHeight) < 640) {
+                alert("Please increase Window Height, or use Portrait Mode, to proceed.");
+                LayoutHideProgressBar();
+                HeightChk = "false";
+            }
+        }----------------------------------------------------------------------------------------------------------------------------
+
+        if (isBreakpointGet('xs')) { 
+            dialogHeight = Number(deviceHeight) - 328;
+        }
+        else {
+            dialogHeight = Number(deviceHeight) - 350; 
+        }
+
+        var deviceWidth = (typeof window.outerWidth != 'undefined') ? Math.max(window.outerWidth, $(window).width()) : $(window).width();
+
+        if (isBreakpointGet('xs')) { 
+            dialogWidth = Number(deviceWidth) - 40;  
+        }
+        else {
+            dialogWidth = Number(deviceWidth) - 240;  
+        }
+
+
+        if (HeightChk == "true")
+        {
+
+            $("#PlayersModalk").css("display", "block");
+            $("#PlayersmodalkTitle").text(putTitle);
+            $(".modal-contentk").css("width", "85%");      
+
+            var Expandid = "ModalPlayersOverlayK";         
+
+            var Expandheightpx = dialogHeight + "px";
+            document.getElementById(Expandid).style.height = Expandheightpx;
+
+            $("#ModalPlayersOverlayK").empty();
+
+            if ($("#ModalPlayersOverlayK").length == 0) { 
+                alert("Div yk "); // div bulunamadi
+            }
+            else {
+
+                $('#ModalPlayersOverlayK').load(pagesrc, '', function (response, status, xhr) {
+                    if (status == 'success') {
+                        //alert("status text is: " + xhr.statusText);
+                        //alert("response text is: " + xhr.responseText);
+                        //LayoutHideProgressBar();  
+                    }
+                    else  
+                    {
+                        alert("Eduzenle: " + xhr.statusText);
+                        alert("detay " + xhr.responseText);
+                    }
+
+                });
+
+            }
+
+        }
+
+    }
+  
+
+
+    function PlayersShowOpenTab(evt, tabName, ProgName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("PlayersShowtabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("PlayersShowtablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className += " active";
+
+        var strAction = "Display" + ProgName;
+        var strController = ProgName;
+
+
+        //Controller/Action
+        var PlayersShowpagesrc = '/PlayersShowk/PlayersShowActionk';  // yeni kod degisme orngegi
+        PlayersShowpagesrc = PlayersShowpagesrc.replace("PlayersShowActionk", strAction);
+        PlayersShowpagesrc = PlayersShowpagesrc.replace("PlayersShowk", strController);
+
+        $("#PlayersShow" + ProgName + "Div").empty();
+
+        $("#PlayersShow" + ProgName + "Div").load(PlayersShowpagesrc, '', function (response, status, xhr) {
+            if (status == 'success') {
+                //alert("status text is: " + xhr.statusText);
+                //alert("response text is: " + xhr.responseText);
+            }
+            else 
+            {
+                alert("Show load problem is: " + xhr.statusText);
+            }
+
+        });
+
+    }
+
+    try {
+           if (isBreakpointGet('xs')) {   
+               //mobilde
+              var parentElement = document.getElementsByClassName("PlayersShowtabxs")[0];
+              var c = parentElement.children;
+               c[0].click(); 
+
+           }
+           else
+           {
+               var parentElement = document.getElementsByClassName("PlayersShowtab")[0];
+               var c = parentElement.children;
+               c[0].click();
+
+            }
+    }
+    catch (err) {
+
+    }
+
+    setTimeout(LayoutHideProgressBar, 1000);   // 1 sn bekle (her ihtimale karsi)
+  
+
+</script>
+

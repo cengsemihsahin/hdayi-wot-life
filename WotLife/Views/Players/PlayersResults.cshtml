@@ -1,0 +1,379 @@
+﻿@model appAPP.Models.PlayersViewModel
+
+<meta charset="utf-8">
+
+<input name="TotalPages" type="hidden" value="@(Model.TotalPages)" />
+<input name="TotalRows" type="hidden" value="@(Model.TotalRows)" />
+<input name="PageRows" type="hidden" value="@(Model.PageRows)" />
+
+
+<script src="../js/Players.js?v=@(Guid.NewGuid())" type="text/javascript"></script>
+<script src="../js/PlayersResults.js?v=@(Guid.NewGuid())" type="text/javascript"></script>
+
+<script language="javascript" type="text/javascript">
+
+    var PlayersDetailURL = '@Url.Action("PlayersDetail","Players")';
+    var PlayersDetailShowURL = '@Url.Action("PlayersShow","Players")';
+    var PlayersDetailTabURL = '@Url.Action("PlayersTab","Players")';
+
+</script>
+
+    <div align="left">
+
+        @if (ViewData["scripts"] != null)
+       {
+    if (Model.TotalRows == 0)
+       {
+   <table style="width: 100%">
+            <tr>
+            <td colspan="1" style="width: 70%; margin-bottom: 12px; padding-bottom: 12px;padding-top: 8px;" >
+              <span style="font-size: 10px; font-weight:bold; font-family: Arial;">Hiç oyuncu yok.</span>
+                <br />
+              <input type="button" value="Oyuncu kaydı ekle" class="btn btn-success btn-xs" onclick="PlayersPopDialog(-1, 0)" style="font-family: Arial; font-size: 10px;margin-top: 5px;" title="Yeni kayıt ekle" />
+
+            </td>
+            <td colspan="1"style="width: 30%">
+                 &nbsp;
+    </td>
+    </tr>
+</table>
+    }
+       else
+       {
+
+    <table border="0" id="idPlayersHeader" style="width: 100%" cellspacing="0" cellpadding="0">
+    <tr style="height: 4px; color: Black; padding: 10px 10px 10px 10px; font-size: 11px">
+        <td style="width: 100%;">
+
+            <ul class="pagination pagination-sm" style="margin-top: 1px; padding-top: 1px; margin-bottom: 0px; padding-bottom: 0px;">
+                <li>
+                    <div style="font-size: 11px; margin-top: 1px; padding-top: 1px;">
+                        &nbsp;Sayfa: &nbsp;@(Html.Encode(Model.CurrentPageNumber))/@(Html.Encode(Model.TotalPages))
+                        &nbsp;&nbsp;|&nbsp;&nbsp; Toplam&nbsp;@(Html.Encode(Model.TotalRows))&nbsp;oyuncu listeleniyor.
+                    </div>
+</li>
+<li id="Playersfirstpagee">
+    <a title="İlk sayfa" href="javascript:PlayersFirstPage()">&laquo;</a>
+</li>
+<li id="Playersprevpagee">
+    <a title="Önceki sayfa" href="javascript:PlayersPrevPage()">Geri</a>
+</li>
+<li id="Playersnextpagee">
+    <a title="Sonraki sayfa" href="javascript:PlayersNextPage()">İleri</a>
+</li>
+<li id="Playerslastpagee">
+    <a title="Son sayfa" href="javascript:PlayersLastPage()">&raquo;</a>
+</li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td align="left" style="height: 1px; width: 100%;">
+
+    <div name="PagingLinks" style="vertical-align: top;visibility: hidden; display: none; padding: 5px 5px 5px 5px;">
+
+        <select name="PageSizeNEW" onchange="PlayersStartSearch()" style="float: left;
+          text-align: left; width: 40px; border: 1px solid #AAA; font-size: 10px;display:inline-block;">
+          <option value="5">5</option>
+          <option value="10" selected>10</option>
+          <option value="20">20</option>
+         </select>
+
+<div style="float: left; font-size: 11px;display:inline-block;">
+    &nbsp;&nbsp;&nbsp;
+    <input type="button" value="Yeni" class="btn btn-success btn-xs" onclick="PlayersPopDialog(-1, 0)" style="margin: 0 0 10px 0; font-family: Arial; font-size: 10px;" title="Yeni kayıt ekle" />
+
+  </div>
+  <div style="float: left; font-size: 11px;display:inline-block;">
+      &nbsp;&nbsp;&nbsp;<a style="color: red; font-size: 13px; font-weight: bold; text-decoration: underline; float: left; padding-left: 7px; "
+    title="Delete" href="javascript:PlayersDeleteALL()">Seçili olanları sil</a>
+</div>
+
+
+
+ 
+
+
+
+</div>
+</td>
+</tr>
+</table>
+
+
+<div id="idDivPlayersTBody2" style="width: auto; height: 100%; overflow: hidden;">
+<table id="idPlayersHeader2" style="width: 100%; min-width: 700px;">
+    <tr style="background-color: #C6C6FF; color: White; height: 2px;">
+
+        <td style="text-align: center; width: 3%; min-width: 21px; background-color: #DCEDEA;
+      height: 9px;">
+            <input id="PlayersCheckALL" name="PlayersCheckALL" type="checkbox" onclick="javascript:PlayersCheckALLs()" />
+        </td>
+        <td style="text-align: left; font-size: 11px; width: 6%; min-width: 42px; background-color: #DCEDEA; display: none;">
+            <div name="SortByFirstCol">
+                <a title="Player_ID Sort" style="color: black;" href="javascript:PlayersSortGrid('FirstCol')">Player_ID</a>
+                <span name="FirstColDESC" style="display: none">
+                    <img src="@(Url.Content("~/images/arrowbdown_sel4.gif"))" alt="Descending" />
+                </span><span name="FirstColASC" style="display: none">
+                    <img src="@(Url.Content("~/images/arrowbup_sel4.gif"))" alt="Ascending" />
+                </span>
+            </div>
+        </td>
+        <td style="text-align: left; width: 16%; min-width: 112px; font-size: 11px; background-color: #DCEDEA;">
+            <div style="color: Black;">
+                Düzenle
+            </div>
+        </td>
+        <td style="text-align: left; font-size: 11px; width: 20%; min-width: 140px; background-color: #DCEDEA;">
+            <div name="SortBySecondCol">
+                <table border="0" style="width:100%;">
+                    <tr>
+                        <td align="right" style="width:90%;">
+                            <a title="Nickname'e göre Sırala" style="color: black;" href="javascript:PlayersSortGrid('PlayersSecondCol')">
+                                Nickname (Oyun içi ad)
+                            </a>
+                        </td>
+                        <td style="width:10%;">
+                            <span name="SecondColDESC" style="display: none;float: left;">
+                                <img src="@(Url.Content("~/images/arrowbdown_sel4.gif"))" alt="Descending" />
+                            </span><span name="SecondColASC" style="display: none;float: left;">
+                                <img src="@(Url.Content("~/images/arrowbup_sel4.gif"))" alt="Ascending" />
+                            </span>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td style="text-align: left; font-size: 11px; width: 18%; min-width: 126px; background-color: #DCEDEA;">
+            <div name="SortByThirdCol">
+                <table border="0" style="width:100%;">
+                    <tr>
+                        <td align="right" style="width:95%;">
+                            <a title="Savaş sayısına göre sırala" style="color: black;" href="javascript:PlayersSortGrid('PlayersThirdCol')">
+                                Yapılan savaşlar (Battles)
+                            </a>
+                        </td>
+                        <td style="width:5%;">
+                            <span name="ThirdColDESC" style="display: none;float: left;">
+                                <img src="@(Url.Content("~/images/arrowbdown_sel4.gif"))" alt="Descending" />
+                            </span><span name="ThirdColASC" style="display: none;float: left;">
+                                <img src="@(Url.Content("~/images/arrowbup_sel4.gif"))" alt="Ascending" />
+                            </span>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td style="text-align: center; font-size: 11px; width: 18%; min-width: 126px; background-color: #DCEDEA;">
+            <div name="SortByFourthCol">
+                <table border="0" style="width:100%;">
+                    <tr>
+                        <td align="right" style="width:95%;">
+                            <a title="WN8 e göre sırala" style="color: black;" href="javascript:PlayersSortGrid('PlayersFourthCol')">
+                                WN8
+                            </a>
+                        </td>
+                        <td style="width:5%;">
+                            <span name="FourthColDESC" style="display: none;float: left;">
+                                <img src="@(Url.Content("~/images/arrowbdown_sel4.gif"))" alt="Descending" />
+                            </span><span name="FourthColASC" style="display: none;float: left;">
+                                <img src="@(Url.Content("~/images/arrowbup_sel4.gif"))" alt="Ascending" />
+                            </span>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td style="text-align: center; font-size: 11px; width: 18%; min-width: 126px; background-color: #DCEDEA;">
+            <div name="SortByFifthCol">
+                <table border="0" style="width:100%;">
+                    <tr>
+                        <td align="right" style="width:95%;">
+                            <a title="Damage göre sırala" style="color: black;" href="javascript:PlayersSortGrid('PlayersFifthCol')">
+                                Damage (Ortalama hasar)
+                            </a>
+                        </td>
+                        <td style="width:5%;">
+                            <span name="FifthColDESC" style="display: none;float: left;">
+                                <img src="@(Url.Content("~/images/arrowbdown_sel4.gif"))" alt="Descending" />
+                            </span><span name="FifthColASC" style="display: none;float: left;">
+                                <img src="@(Url.Content("~/images/arrowbup_sel4.gif"))" alt="Ascending" />
+                            </span>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+
+        <td style="text-align: left; width: 4%; min-width: 28px; background-color: #DCEDEA;">
+            &nbsp;
+        </td>
+    </tr>
+</table>
+</div>
+
+
+    <div id="idDivPlayersTBody" style="width: auto; height: 100%; overflow: scroll;" onscroll="PlayersmyTimer();" >
+        <table id="PlayersTable" style="width: 100%; min-width: 700px;">
+            @{ int i = 0;
+                string truncNickname = "";
+                string truncNicknamevalid = "";
+                string DelName = "";}
+            @foreach (var recList in (IEnumerable<appMODEL.Players>)ViewData["scripts"])
+            {
+                truncNickname = "";
+                truncNicknamevalid = "false";
+                if (string.IsNullOrEmpty(recList.Nickname) || string.IsNullOrEmpty(recList.Nickname.Trim()))
+                {
+                    truncNickname = "";
+                }
+                else
+                {
+                    if (recList.Nickname.Length > 20)
+                    {
+                        truncNickname = recList.Nickname.Substring(0, 20);
+                        truncNicknamevalid = "true";
+                    }
+                    else
+                    {
+                        truncNickname = recList.Nickname;
+                    }
+                }
+
+
+
+
+                
+            <tr id="Playersmaster@(i+2)" style="height: 5px; color: Black; background-color: @(i++ % 2 == 0 ? "#fffbe6"  : "#ede4e4")">
+                <td style="width: 3%; min-width: 21px; font-size: 9px; font-weight: normal; text-align: center;">
+                    <input id="PlayersChk@(i)" name="PlayersChk@(i)" type="checkbox" />
+                    <input id="PlayersCheckB@(i)" name="CheckBoxx" type="hidden" value="off" />
+                </td>
+                <td id="PlayersFirstCol" style="text-align: left; width: 6%; min-width: 42px; font-size: 11px; display: none;">
+                    @(Html.Encode(recList.Player_ID))
+                </td>
+                <td style="text-align: left; width: 16%; min-width: 112px; font-size: 12px; font-weight: normal">
+                    <a class="btn btn-success btn-xs" style="color: white;margin-top: 2px; margin-bottom: 2px;" title="Duzenle" href="javascript:PlayersPopDialog('@(Html.Encode(recList.Player_ID))', '@(i+2)');">
+                        Duzenle
+                    </a>
+                </td>
+                <td id="PlayersSecondCol" style="text-align: left; width: 20%; min-width: 140px; font-size: 11px">
+                    @if (truncNicknamevalid == "true")
+                    {
+                        <div name="plusignNickname@(i+2)" style="display: inline-block;">
+                            <a style="font-weight:normal; text-decoration:none;" title="Expand" href="javascript:PlayersShowColumn('@(i+2)','Nickname');">
+                                <img src="@(Url.Content("~/images/plus.gif"))" alt="Ascending" style="border-style: none" />
+                            </a>
+                        </div>
+                        <div name="minusignNickname@(i+2)" style="display: none; font-size: 10px; color: Purple; height: 30px;">
+                            <a style="font-size: 10px; text-decoration:none; color:Navy" title="Collapse" href="javascript:PlayersHideColumn('@(i+2)','Nickname');">
+                                <img src="@(Url.Content("~/images/minus.gif"))" alt="Ascending" style="border-style: none" />
+                            </a>
+                            @(Html.Encode(recList.Nickname))
+                        </div>
+                    }
+
+                    <span name="Nicknametipp@(i)">
+                        @(Html.Encode(truncNickname))
+                    </span>
+
+                </td>
+
+
+
+
+
+
+                <td id="PlayersThirdCol" style="text-align: right; width: 18%; min-width: 126px; font-size: 11px">
+                    @(Html.Encode(recList.Battles))
+                </td>
+
+
+
+
+                <!-- WN HESAPLAMA -->
+                <td id="PlayersFourthCol" style="text-align: right; width: 18%; min-width: 126px; font-size: 11px">
+                    @(Html.Encode(Convert.ToString(Convert.ToDecimal(Convert.ToDouble(recList.Damage) * 1.2))))
+                </td>
+
+
+
+
+
+                <td id="PlayersFifthCol" style="text-align: right; width: 18%; min-width: 126px; font-size: 11px">
+                    @(Html.Encode(recList.Damage))
+                </td>
+
+             
+
+                <td style="text-align: center; width: 4%; min-width: 28px; font-size: 12px; font-weight: normal">
+                    <a style="font-size: 10px; color: Red" title="Kaldır" href="javascript:PlayersDelDetails('@(Html.Encode(recList.Player_ID))', '@(i+2)', '@(Html.Encode(recList.Nickname))');">
+                        Sil
+                    </a>
+
+                    <input style="display: none;" name="PK_IDD" type="text" id="PlayersPK_IDD@(i)" value='@(Html.Encode(recList.Player_ID))' />
+                </td>
+            </tr>
+                <tr id="Playerschild@(i+2)" style="display: none;">
+                    <td align="left" colspan="9">
+                        <div id="expandRowdivPlayers@(i+2)" style="background-color: white;margin-left:12px;margin-bottom: 5px;">
+                        </div>
+                    </td>
+                </tr>
+
+                }
+            </table>
+</div>
+
+
+<div id="idDivNamesTFooter" style="width: auto; height: 100%; overflow: hidden;display:none;">
+<table id="idNamesFooter" style="width: 100%; min-width: 700px;">
+<tr style="background-color: #C6C6FF; color: White; height: 2px;">
+<td style="text-align: center; width: 3%;background-color: #FFECEC; height: 9px;min-width: 21px;">
+        &nbsp;
+</td>
+<td style="text-align: left; width: 3%;background-color: #FFECEC; height: 9px;min-width: 21px;">
+        &nbsp;
+</td>
+<td style="text-align: left; font-size: 11px; width: 6%; background-color: #FFECEC;display: none;min-width: 42px;">
+       &nbsp;
+</td>
+<td style="text-align: center; width: 16%; font-size: 11px; background-color: #FFECEC;min-width: 112px;">
+    <div style="color: Black;">
+            &nbsp;
+    </div>
+</td>
+<td style="text-align: left; font-size: 11px; width: 20%; background-color: #FFECEC;min-width: 140px;">
+    <div style="color: Black;">
+       Column1
+    </div>
+</td>
+<td style="text-align: left; font-size: 11px; width: 18%;background-color: #FFECEC;min-width: 126px;">
+    <div style="color: Black;">
+       Column2
+    </div>
+</td>
+<td style="text-align: center; font-size: 11px; width: 18%;background-color: #FFECEC;min-width: 126px;">
+    <div style="color: Black;">
+       Column3
+    </div>
+</td>
+<td style="text-align: center; font-size: 11px; width: 18%;background-color: #FFECEC;min-width: 126px;">
+     <div style="color: Black;">
+        Column4
+     </div>
+ </td>
+ <td style="text-align: center; width: 4%;background-color: #FFECEC;min-width: 28px;">
+     &nbsp;
+    </td>
+  </tr>
+ </table>
+</div>
+
+    }
+    }
+
+  
+</div>
+

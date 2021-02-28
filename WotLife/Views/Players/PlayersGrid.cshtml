@@ -1,0 +1,28 @@
+@model appAPP.Models.PlayersViewModel
+
+@{ 
+ ViewBag.Title = "Scripts"; 
+}
+
+<script language="javascript" type="text/javascript">
+
+        $(PlayerspageReady);
+
+        function PlayerspageReady() {
+       
+            PlayersStartSearch();  
+            $.ajaxSetup({ cache: false });  
+
+            $(function () {
+
+                
+
+            });
+
+        }
+      
+
+    </script>
+   
+    <partial name="Players" model="Model" />
+

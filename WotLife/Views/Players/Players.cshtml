@@ -1,0 +1,362 @@
+@model appAPP.Models.PlayersViewModel
+
+
+<style type="text/css">
+
+    #ui-datepicker-div {
+        z-index: 9999999;
+    }
+
+    .ui-datepicker {
+        font-size: 9pt !important
+    }
+
+
+    .modalk {
+        display: none;
+        position: fixed;
+        z-index: 1;
+        padding-top: 112px;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        background-color: rgb(0,0,0);
+        background-color: rgba(0,0,0,0.2);
+    }
+
+    .modal-contentk {
+        position: relative;
+        background-color: #fefefe;
+        margin: auto;
+        padding: 0;
+        border: 1px solid #888;
+        width: 85%;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    }
+
+    .modal-bodyk {
+        padding: 2px 6px;
+    }
+
+    .closebtn {
+        font-size: 17px;
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+        padding-right: 7px;
+    }
+
+        .closebtn:hover {
+            text-decoration: none;
+        }
+</style>
+
+
+<script language="javascript" type="text/javascript">
+
+    // veritabanindan playerlari bul
+    var PlayersGetURL = '@Url.Action("PlayersSearch","Players")';
+    function PlayersPostSearchToServer() {
+     try {
+            $.ajax(PlayersGetURL, {
+                type: 'GET',
+                data: PlayersListformData,
+                success: function (data, status, xhr) {
+                    PlayersGetShowData(data);
+                },
+                error: function (jqXhr, textStatus, errorMessage) {
+                    alert(" Hata :- " + errorMessage + "\n Xhr.status is :- " + jqXhr.status + "\n Xhr.responseText is :- " + jqXhr.responseText + "\n textStatus is :- " + textStatus);
+                }
+
+            });
+      }
+        catch (err) {
+            alert("err message " + err.message);
+       }
+    }
+
+
+    // player datalarini listeleme silme ve siralama
+    function PlayersGetShowData(PlayersreturnHtml) {
+     try {
+
+            LayoutHideProgressBar();
+
+            $("#PlayersDivSearchResults").html('');
+            $("#PlayersDivSearchResults").append(PlayersreturnHtml);
+
+            var currentPageNumber = $("#PlayersFormtopdiv [name=CurrentPageNumber]").val();
+            var totalPages = $("#PlayersFormtopdiv [name=TotalPages]").val();
+            var totalRows = $("#PlayersFormtopdiv [name=TotalRows]").val();
+
+            if (totalPages > 0)
+                PlayersSetPagingLinks(currentPageNumber, totalPages);
+
+            if (totalRows == 1) {
+                var intPKIDD = $("#PlayersFormtopdiv #PlayersPK_IDD1").val();
+            }
+
+            if ($("#PlayersFormtopdiv [name=PageSizeNEW]").length != 0) {
+                var intPagesize = $("#PlayersFormtopdiv [name=PageSize]").val();
+                $("#PlayersFormtopdiv [name=PageSizeNEW]").val(intPagesize);
+            }
+
+            if ($("#PlayersFormtopdiv [name=Player_ID]").val() != 0) {
+                Playersnewrowhighlight();
+            }
+
+
+            var currentSortBy = $("#PlayersFormtopdiv [name=SortBy]").val();
+            var currentSortAsc = $("#PlayersFormtopdiv [name=SortAscendingDescending]").val();
+
+            if (currentSortBy == "PlayersFirstCol") {
+                PlayersHighlightCol('PlayersFirstCol');
+
+                if (currentSortAsc == "DESC") {
+                    $("#PlayersFormtopdiv [name=FirstColDESC]").css("display", "inline-block");
+                }
+                else {
+                    $("#PlayersFormtopdiv [name=FirstColASC]").css("display", "inline-block");
+                }
+            }
+            if (currentSortBy == "PlayersSecondCol") {
+                PlayersHighlightCol('PlayersSecondCol');
+
+                if (currentSortAsc == "DESC") {
+                    $("#PlayersFormtopdiv [name=SecondColDESC]").css("display", "inline-block");
+                }
+                else {
+                    $("#PlayersFormtopdiv [name=SecondColASC]").css("display", "inline-block");
+                }
+            }
+            if (currentSortBy == "PlayersThirdCol") {
+                PlayersHighlightCol('PlayersThirdCol');
+                if (currentSortAsc == "DESC") {
+                    $("#PlayersFormtopdiv [name=ThirdColDESC]").css("display", "inline-block");
+                }
+                else {
+                    $("#PlayersFormtopdiv [name=ThirdColASC]").css("display", "inline-block");
+                }
+            }
+            if (currentSortBy == "PlayersFourthCol") {
+                PlayersHighlightCol('PlayersFourthCol');
+                if (currentSortAsc == "DESC") {
+                    $("#PlayersFormtopdiv [name=FourthColDESC]").css("display", "inline-block");
+                }
+                else {
+                    $("#PlayersFormtopdiv [name=FourthColASC]").css("display", "inline-block");
+                }
+            }
+            if (currentSortBy == "PlayersFifthCol" || currentSortBy == "") {   //varsayilan siralama
+                PlayersHighlightCol('PlayersFifthCol');
+                if (currentSortAsc == "DESC") {
+                    $("#PlayersFormtopdiv [name=FifthColDESC]").css("display", "inline-block");
+                }
+                else {
+                    $("#PlayersFormtopdiv [name=FifthColASC]").css("display", "inline-block");
+                }
+            }
+            if (currentSortBy == "PlayersSixthCol") {
+                PlayersHighlightCol('PlayersSixthCol');
+                if (currentSortAsc == "DESC") {
+                    $("#PlayersFormtopdiv [name=SixthColDESC]").css("display", "inline-block");
+                }
+                else {
+                    $("#PlayersFormtopdiv [name=SixthColASC]").css("display", "inline-block");
+                }
+            }
+
+            var CurrentRowNo = $("#PlayersFormtopdiv [name=CurrentRowNumber]").val();
+            
+
+            LayoutHideProgressBar();  // _Layout.cshtml icine bak (bul)
+
+      }
+        catch (err) {
+            alert("err message " + err.message);
+       }
+
+    }
+
+
+    var PlayersDelURL = '@Url.Action("DelPlayers","Players")';
+
+    var PlayersformData;
+    function PlayersDelRecord(PKID) {
+        $("#PlayersFormtopdiv [name=Player_ID]").val(PKID);   //Primary Key
+        PlayersformData = $("#PlayersFormtopdiv :input").serialize();  // div giris degerleri
+
+        setTimeout(PlayersPostScriptDelIDToServer, 50);
+    }
+    // kayit detaylarini(duzenleme edit) veritabanindan sil
+    function PlayersPostScriptDelIDToServer() {
+        //Url.Action(Action, Controller)
+
+        var headersdel = {};
+        headersdel['MY-XSRF-TOKEN'] = $("[name='__RequestVerificationToken']").val();
+
+        $.ajax(PlayersDelURL, {
+                    type: 'POST',
+                    data: PlayersformData,
+                    datatype: 'json',
+                    headers: headersdel,
+                    success: function (data, status, xhr) {
+                       PlayersScriptDeleteComplete(data);
+                    },
+                    error: function (jqXhr, textStatus, errorMessage) {
+                        alert(" errorMessage is:- " + errorMessage + "\n Xhr.status is :- " + jqXhr.status + "\n Xhr.responseText is :- " + jqXhr.responseText + "\n textStatus is :- " + textStatus);
+                    }
+
+         });
+
+
+         $("#PlayersFormtopdiv [name=CurrentPageNumber]").val(1);
+
+    }
+
+    // kolonlarin yanindaki sil elementinin islevi
+    function PlayersScriptDeleteComplete(jsonScript) {
+        $("#PlayersFormtopdiv [name=Player_ID]").val(0);
+        PlayersPostSearchForm();
+    }
+
+
+    var PlayersDelALLURL = '@Url.Action("DelPlayersALL","Players")';
+
+    function PlayersDeleteSelected() {
+        PlayersformData = $("#PlayersFormtopdiv :input").serialize();
+
+        setTimeout(PlayersPostScriptDelIDToServerALL, 50);
+    }
+
+    function PlayersPostScriptDelIDToServerALL() {
+        var headersdelall = {};
+        headersdelall['MY-XSRF-TOKEN'] = $("[name='__RequestVerificationToken']").val();
+
+        $.ajax(PlayersDelALLURL, {
+            type: 'POST',
+            data: PlayersformData,
+            datatype: 'json',
+            headers: headersdelall,
+            success: function (data, status, xhr) {
+                PlayersScriptDeleteCompleteALL(data);
+            },
+            error: function (jqXhr, textStatus, errorMessage) {
+                alert(" errorMessage is:- " + errorMessage + "\n Xhr.status is :- " + jqXhr.status + "\n Xhr.responseText is :- " + jqXhr.responseText + "\n textStatus is :- " + textStatus);
+            }
+
+        });
+        $("#PlayersFormtopdiv [name=CurrentPageNumber]").val(1);
+
+    }
+    function PlayersScriptDeleteCompleteALL(jsonScript) {
+        PlayersPostSearchForm();
+    }
+
+
+</script>
+
+
+<div id="PlayersFormtopdiv" style="border: thin solid #C0C0C0; margin: 0 auto; overflow: hidden;">
+
+
+    <form method="post" action="./" id="PlayersForm">
+
+        <!-- request (istek) dogrulama -->
+        @Html.AntiForgeryToken()
+
+
+        <!-- TAGNAME js icin tagnameler (js dosyalari tarafindan bu divler kullanilacak) -->
+        
+
+        <input name="PDFFlag" type="hidden" value="" />
+        <input name="Player_ID" type="hidden" value="" />
+        <input name="TimeDiff" type="hidden" value="" />
+
+        <input name="CurrentPageNumber" type="hidden" value="" />
+        <input name="CurrentRowNumber" type="hidden" value="" />
+        <input name="SortBy" type="hidden" value="" />
+        <input name="SortAscendingDescending" type="hidden" value="" />
+        <input name="PageSize" type="hidden" value="" />
+        <input name="PreviframeWidth" type="hidden" value="" />
+        <input name="PreviframeHeight" type="hidden" value="" />
+        <input name="ScrollWidthh" type="hidden" value="" />
+        <input name="OrigScreenWidthh" type="hidden" value="" />
+        <input name="ScrollPosition" type="hidden" value="" />
+
+        <input name="CurrentProgName" type="hidden" value="" />
+        <input name="CurrentChildNo" type="hidden" value="" />
+        <input name="ParenterProgName" type="hidden" value="" />
+        <input name="ToperProgName" type="hidden" value="" />
+        <input name="ChildtableName" type="hidden" value="" />
+
+        <table border="0" style="width:100%;">
+            <tr>
+                <td align="center">
+                    <table border="0" style="width:100%;">
+                        <tr>
+                            <td align="center" style="width:100%;">
+                                <span style="font-weight:bold; font-family:Arial;font-size:17px;padding-right:7px;"> OYUNCULAR </span>
+                            </td>
+                        </tr>
+                    </table>
+
+                </td>
+            </tr>
+        </table>
+
+
+    </form>
+
+
+    <div id="PlayersDivSearchResults">
+        <partial name="PlayersResults" model="Model" />
+    </div>
+
+
+</div>
+
+
+
+
+
+<div id="PlayersModalk" class="modalk">
+    <div class="modal-contentk">
+        <div class="modal-bodyk">
+            <div style="height: 1px;">
+                &nbsp;
+            </div>
+            <!-- kapatma panelleri -->
+            <table border="0" style="width: 100%;">
+                <tr>
+                    <td style="width: 100%;">
+                        <div style="border-radius: 5px;height: 32px;border: 1px solid #8c8c8c;background: #cccccc;background: linear-gradient(#e6e6e6, #bfbfbf);background: -webkit-linear-gradient(#e6e6e6, #bfbfbf);">
+                            <table border="0" style="width:100%;height: 30px;">
+                                <tr>
+                                    <td align="left" style="width: 50%;">
+                                        <span id="PlayersmodalkTitle" style="padding-left: 10px;font-size:11px;color: black;font-weight:bold;">test</span>
+                                    </td>
+                                    <td align="right" style="width: 50%;">
+                                        <input style="font-size:10px;display: none;" class="btn btn-sm" type="button" value="X" onclick="PlayersCloseK();" />
+                                        <input style="font-size:10px;color: black;display: none;" type="button" value="X" onclick="PlayersCloseK();" />
+                                        <a href="javascript:void(0)" title="Close" class="closebtn" style="color: black;font-weight:bold;" onclick="PlayersCloseK();">&times;</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+
+            <div style="height: 7px;">
+                &nbsp;
+            </div>
+            <div id="ModalPlayersOverlayK">
+
+            </div>
+        </div>
+    </div>
+</div>
+

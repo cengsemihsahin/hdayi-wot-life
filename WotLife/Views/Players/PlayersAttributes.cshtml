@@ -1,0 +1,61 @@
+﻿@page
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style type="text/css">
+    h1 {
+        text-align: center;
+    }
+
+    .containerOyuncuVerileri {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .tableForOyuncuVerileri {
+        width: 100%;
+        border: 1px solid #fff;
+    }
+
+    .tableLabelRight {
+        text-align: right;
+        padding: 0 5% 0 0;
+    }
+
+    input[type="text"] {
+        margin: 0 0 0 10%;
+        padding: 0
+    }
+
+</style>
+
+<h1>Oyuncu Verileri</h1>
+
+<div class="containerOyuncuVerileri">
+    <table class="tableForOyuncuVerileri">
+        <tr>
+            <td class="tableLabelRight">Savaşlar (battles):</td>
+            <td><input type="text" name="battlesForElement" id="textElement1"></td>
+        </tr>
+        <tr>
+            <td class="tableLabelRight">Nickname (takma ad):</td>
+            <td><input type="text" name="nicknameForElement" id="textElement2"></td>
+        </tr>
+        <tr>
+            <td class="tableLabelRight">Damage (ort hasar):</td>
+            <td><input type="text" name="damageForElement" id="textElement3"></td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align: center; padding: 5% 0;"><button id="dugme" onClick="formBilgileri()">Güncelle</button></td>
+        </tr>
+    </table>
+    <!-- GUNCELLEME RAPOR -->
+    <div class="sonuc"></div>
+    <!-- HATA MESAJI KISMI -->
+    <div class="bolme22_2"></div>
+    <!-- KAYIT BOLUMU -->
+    <div class="kayitListesi"></div>
+</div>
+
+<script src="~/js/UserUpdate.js"></script>

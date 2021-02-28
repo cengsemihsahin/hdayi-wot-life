@@ -1,0 +1,1127 @@
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\appsettings.json
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\appAPP.StaticWebAssets.xml
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\appAPP.exe
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\appAPP.deps.json
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\appAPP.runtimeconfig.json
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\appAPP.runtimeconfig.dev.json
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\appAPP.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\appAPP.pdb
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\appAPP.Views.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\appAPP.Views.pdb
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Common.Logging.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Common.Logging.Core.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\NPOI.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\itext.barcodes.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\itext.forms.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\itext.io.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\itext.kernel.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\itext.layout.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\itext.pdfa.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\itext.sign.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\itext.styledxmlparser.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\itext.svg.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\itext.html2pdf.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MYTOOL\CORE3.1\appAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.csproj.CoreCompileInputs.cache
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.MvcApplicationPartsAssemblyInfo.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.RazorAssemblyInfo.cache
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.RazorAssemblyInfo.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.AssemblyInfoInputs.cache
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.AssemblyInfo.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.TagHelpers.input.cache
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.TagHelpers.output.cache
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.RazorCoreGenerate.cache
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ChildAdd\ChildAdd.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ChildAdd\ChildAddGrid.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAdd\GrandChildAdd.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAdd\GrandChildAddGrid.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\IndexORIG.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\ReloadAdd.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\ReloadDel.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\TabClose.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ParentAdd\ParentAdd.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ParentAdd\ParentAddGrid.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutORIG.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartialORIG.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.RazorTargetAssemblyInfo.cache
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.RazorTargetAssemblyInfo.cs
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.Views.pdb
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.csproj.CopyComplete
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\staticwebassets\appAPP.StaticWebAssets.Manifest.cache
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\staticwebassets\appAPP.StaticWebAssets.xml
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.dll
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.pdb
+C:\MYTOOL\CORE3.1\appAPP\obj\Debug\netcoreapp3.1\appAPP.genruntimeconfig.cache
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\appsettings.json
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\appsettingsSERVER.Development.json
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\appsettingsSERVER.json
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\appAPP.StaticWebAssets.xml
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\appAPP.exe
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\appAPP.deps.json
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\appAPP.runtimeconfig.json
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\appAPP.runtimeconfig.dev.json
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\appAPP.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\appAPP.pdb
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\appAPP.Views.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\appAPP.Views.pdb
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Common.Logging.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Common.Logging.Core.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\NPOI.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\itext.barcodes.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\itext.forms.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\itext.io.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\itext.kernel.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\itext.layout.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\itext.pdfa.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\itext.sign.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\itext.styledxmlparser.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\itext.svg.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\itext.html2pdf.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\InnerMake.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\TopGridMake.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\TopInnerMake.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\InnerMake.pdb
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\TopGridMake.pdb
+C:\MYTOOL\CORE3.1\NEW\appAPP\bin\Debug\netcoreapp3.1\TopInnerMake.pdb
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.csproj.CoreCompileInputs.cache
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.MvcApplicationPartsAssemblyInfo.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.RazorAssemblyInfo.cache
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.RazorAssemblyInfo.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.AssemblyInfoInputs.cache
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.AssemblyInfo.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.TagHelpers.input.cache
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.TagHelpers.output.cache
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.RazorCoreGenerate.cache
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ChildAddk\ChildAddk.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ChildAddk\ChildAddkGrid.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ChildAddk\ChildAddkResults.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ChildAdd\ChildAdd.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ChildAdd\ChildAddGrid.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAddk\GrandChildAddk.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAddk\GrandChildAddkGrid.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAddk\GrandChildAddkResults.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAdd\GrandChildAdd.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAdd\GrandChildAddGrid.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\EncryptCode.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\IndexIOT.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\IndexORIG.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\ReloadAdd.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\ReloadDel.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\TabClose.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\MasterAddk\MasterAddk.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\MasterAddk\MasterAddkDetail.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\MasterAddk\MasterAddkGrid.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\MasterAddk\MasterAddkResults.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ParentAdd\ParentAdd.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ParentAdd\ParentAddGrid.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Persons\Persons.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Persons\PersonsDetail.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Persons\PersonsGrid.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Persons\PersonsResults.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Persons\PersonsShow.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Persons\PersonsShowDetail.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Persons\PersonsTab.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutIOT.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutORIG.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartialORIG.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.RazorTargetAssemblyInfo.cache
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.RazorTargetAssemblyInfo.cs
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.Views.pdb
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.csproj.CopyComplete
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\staticwebassets\appAPP.StaticWebAssets.Manifest.cache
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\staticwebassets\appAPP.StaticWebAssets.xml
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.dll
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.pdb
+C:\MYTOOL\CORE3.1\NEW\appAPP\obj\Debug\netcoreapp3.1\appAPP.genruntimeconfig.cache
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\appsettings.json
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\appAPP.StaticWebAssets.xml
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\appAPP.exe
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\appAPP.deps.json
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\appAPP.runtimeconfig.json
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\appAPP.runtimeconfig.dev.json
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\appAPP.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\appAPP.pdb
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\appAPP.Views.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\appAPP.Views.pdb
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Common.Logging.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Common.Logging.Core.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\NPOI.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\itext.barcodes.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\itext.forms.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\itext.io.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\itext.kernel.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\itext.layout.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\itext.pdfa.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\itext.sign.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\itext.styledxmlparser.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\itext.svg.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\itext.html2pdf.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\InnerMake.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\TopGridMake.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\bin\Debug\netcoreapp3.1\TopInnerMake.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.csproj.CoreCompileInputs.cache
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.MvcApplicationPartsAssemblyInfo.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.RazorAssemblyInfo.cache
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.RazorAssemblyInfo.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.AssemblyInfoInputs.cache
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.AssemblyInfo.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.TagHelpers.input.cache
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.TagHelpers.output.cache
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.RazorCoreGenerate.cache
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ChildAddk\ChildAddk.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ChildAddk\ChildAddkGrid.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ChildAddk\ChildAddkResults.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ChildAdd\ChildAdd.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ChildAdd\ChildAddGrid.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAddk\GrandChildAddk.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAddk\GrandChildAddkGrid.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAddk\GrandChildAddkResults.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAdd\GrandChildAdd.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAdd\GrandChildAddGrid.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\ReloadAdd.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\ReloadDel.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\TabClose.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\MasterAddk\MasterAddk.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\MasterAddk\MasterAddkDetail.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\MasterAddk\MasterAddkGrid.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\MasterAddk\MasterAddkResults.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ParentAdd\ParentAdd.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\ParentAdd\ParentAddGrid.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.RazorTargetAssemblyInfo.cache
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.RazorTargetAssemblyInfo.cs
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.Views.pdb
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.csproj.CopyComplete
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\staticwebassets\appAPP.StaticWebAssets.Manifest.cache
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\staticwebassets\appAPP.StaticWebAssets.xml
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.dll
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.pdb
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.genruntimeconfig.cache
+C:\MYTOOL\CORE3.1\FINAL\appAPP\obj\Debug\netcoreapp3.1\appAPP.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\appAPP.StaticWebAssets.xml
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\appAPP.exe
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\appAPP.deps.json
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\appAPP.runtimeconfig.json
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\appAPP.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\appAPP.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\appAPP.pdb
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\appAPP.Views.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\appAPP.Views.pdb
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Common.Logging.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Common.Logging.Core.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\NPOI.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\itext.barcodes.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\itext.forms.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\itext.io.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\itext.kernel.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\itext.layout.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\itext.pdfa.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\itext.sign.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\itext.styledxmlparser.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\itext.svg.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\itext.html2pdf.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\InnerMake.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\TopGridMake.dll
+C:\Users\ASUS\Desktop\WotLife\bin\Debug\netcoreapp3.1\TopInnerMake.dll
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\staticwebassets\appAPP.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\staticwebassets\appAPP.StaticWebAssets.xml
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\scopedcss\bundle\appAPP.styles.css
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.Views.pdb
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.csproj.CopyComplete
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.dll
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.pdb
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\appAPP.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\Players.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersDetail.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersGrid.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersResults.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersShow.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersShowDetail.cshtml.g.cs
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersTab.cshtml.g.cs
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\appAPP.StaticWebAssets.xml
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\appAPP.exe
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\appAPP.deps.json
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\appAPP.runtimeconfig.json
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\appAPP.runtimeconfig.dev.json
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\appAPP.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\appAPP.pdb
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\appAPP.Views.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\appAPP.Views.pdb
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Common.Logging.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Common.Logging.Core.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\NPOI.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\itext.barcodes.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\itext.forms.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\itext.io.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\itext.kernel.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\itext.layout.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\itext.pdfa.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\itext.sign.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\itext.styledxmlparser.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\itext.svg.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\itext.html2pdf.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\InnerMake.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\TopGridMake.dll
+D:\WOT-LIFE\WotLife\bin\Debug\netcoreapp3.1\TopInnerMake.dll
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.csprojAssemblyReference.cache
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.AssemblyInfoInputs.cache
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.AssemblyInfo.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.csproj.CoreCompileInputs.cache
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.MvcApplicationPartsAssemblyInfo.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.MvcApplicationPartsAssemblyInfo.cache
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.RazorAssemblyInfo.cache
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.RazorAssemblyInfo.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\staticwebassets\appAPP.StaticWebAssets.Manifest.cache
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\staticwebassets\appAPP.StaticWebAssets.xml
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\scopedcss\bundle\appAPP.styles.css
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.TagHelpers.input.cache
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.TagHelpers.output.cache
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.RazorCoreGenerate.cache
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\ChildAddk\ChildAddk.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\ChildAddk\ChildAddkGrid.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\ChildAddk\ChildAddkResults.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\ChildAdd\ChildAdd.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\ChildAdd\ChildAddGrid.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAddk\GrandChildAddk.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAddk\GrandChildAddkGrid.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAddk\GrandChildAddkResults.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAdd\GrandChildAdd.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\GrandChildAdd\GrandChildAddGrid.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Home\TabClose.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\MasterAddk\MasterAddk.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\MasterAddk\MasterAddkDetail.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\MasterAddk\MasterAddkGrid.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\MasterAddk\MasterAddkResults.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\ParentAdd\ParentAdd.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\ParentAdd\ParentAddGrid.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\Players.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersDetail.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersGrid.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersResults.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersShow.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersShowDetail.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersTab.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.RazorTargetAssemblyInfo.cache
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.RazorTargetAssemblyInfo.cs
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.Views.pdb
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.csproj.CopyComplete
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.dll
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.pdb
+D:\WOT-LIFE\WotLife\obj\Debug\netcoreapp3.1\appAPP.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersAttributes.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\appAPP.StaticWebAssets.xml
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\appAPP.exe
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\appAPP.deps.json
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\appAPP.runtimeconfig.json
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\appAPP.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\appAPP.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\appAPP.pdb
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\appAPP.Views.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\appAPP.Views.pdb
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Common.Logging.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Common.Logging.Core.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\NPOI.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\itext.barcodes.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\itext.forms.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\itext.io.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\itext.kernel.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\itext.layout.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\itext.pdfa.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\itext.sign.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\itext.styledxmlparser.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\itext.svg.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\itext.html2pdf.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\InnerMake.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\TopGridMake.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\bin\Debug\netcoreapp3.1\TopInnerMake.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\staticwebassets\appAPP.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\staticwebassets\appAPP.StaticWebAssets.xml
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\scopedcss\bundle\appAPP.styles.css
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\Players.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersAttributes.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersDetail.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersGrid.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersResults.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersShow.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersShowDetail.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Players\PlayersTab.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.Views.pdb
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.csproj.CopyComplete
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.dll
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.pdb
+C:\Users\ASUS\Desktop\AYHAN ÇETİN\WotLife\obj\Debug\netcoreapp3.1\appAPP.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+﻿@page
+@model LogoutModel
+@{
+    ViewData["Title"] = "Oturumu kapat";
+}
+
+<div>
+    <h1>@ViewData["Title"]</h1>
+</div>
+<form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+    <button id="myBtn" type="submit" class="btn btn-primary">Oturumu sonlandir</button>
+</form>
+<script type="text/javascript">
+
+    setTimeout(ClickButton, 50);
+    function ClickButton() {
+        //alert("click");
+        document.getElementById("myBtn").click();
+    }
+
+</script>
